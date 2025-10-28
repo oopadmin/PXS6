@@ -1,0 +1,9 @@
+# Visual Studio cache folders
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.dbmdl
+*.log
+*.cache
